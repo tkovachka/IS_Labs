@@ -3327,11 +3327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
+      "projectUniqueName": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopApplication\\EShop.Service\\EShop.Service.csproj",
       "projectName": "EShop.Service",
-      "projectPath": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
+      "projectPath": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopApplication\\EShop.Service\\EShop.Service.csproj",
       "packagesPath": "C:\\Users\\w10P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\integrated_systems\\EShop.Service\\obj\\",
+      "outputPath": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopApplication\\EShop.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\w10P\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3348,11 +3348,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj"
+            "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopApplication\\EShop.Domain\\EShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopApplication\\EShop.Domain\\EShop.Domain.csproj"
             },
-            "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj": {
-              "projectPath": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj"
+            "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopApplication\\EShop.Repository\\EShop.Repository.csproj": {
+              "projectPath": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopApplication\\EShop.Repository\\EShop.Repository.csproj"
             }
           }
         }

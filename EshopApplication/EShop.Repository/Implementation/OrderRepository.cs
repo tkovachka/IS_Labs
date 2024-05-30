@@ -12,7 +12,7 @@ namespace EShop.Repository.Implementation
     public class OrderRepository : IOrderRepository
     {
         private readonly ApplicationDbContext _context;
-        private DbSet<Order> _entities;
+        private readonly DbSet<Order> _entities;
 
         public OrderRepository(ApplicationDbContext context)
         {

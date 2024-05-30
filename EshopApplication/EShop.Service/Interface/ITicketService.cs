@@ -13,6 +13,6 @@ namespace EShop.Service.Interface
         public Ticket GetProductById(Guid? id);
         public Ticket CreateNewProduct(string userId, Ticket product);
         public Ticket UpdateProduct(Ticket product);
-        public Ticket DeleteProduct(Guid id);
+        public Ticket DeleteProduct(Guid? id);
     }
 }

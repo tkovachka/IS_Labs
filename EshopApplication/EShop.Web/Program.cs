@@ -23,8 +23,10 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped(typeof(IUserRepository), typeof(UserRepository));
 builder.Services.AddScoped(typeof(IOrderRepository), typeof(OrderRepository));
+builder.Services.AddScoped(typeof(ITicketRepository), typeof(TicketRepository));
 
 builder.Services.AddTransient<ITicketService, TicketService>();
+builder.Services.AddTransient<IConcertService, ConcertService>();
 builder.Services.AddTransient<IShoppingCartService, ShoppingCartService>();
 builder.Services.AddTransient<IOrderService, OrderService>();
 

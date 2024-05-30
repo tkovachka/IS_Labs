@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EShop.Domain
-build_property.ProjectDir = C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\integrated_systems\EShop.Domain\
+build_property.ProjectDir = C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

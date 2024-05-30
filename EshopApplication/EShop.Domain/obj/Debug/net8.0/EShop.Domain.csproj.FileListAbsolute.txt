@@ -46,3 +46,16 @@ C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\integrated_s
 C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
 C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
 C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\EShop.Domain.sourcelink.json
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\w10P\Tea\FINKI\3 godina\semestar 6\Integrirani sistemi\kod\EshopApplication\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll

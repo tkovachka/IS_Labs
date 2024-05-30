@@ -3,51 +3,29 @@
 @{
     ViewData["Title"] = "Index";
 }
-
-<h1>Index</h1>
-
+<head>
+    <title>All Concerts</title>
+</head>
+<body class="margin-auto">
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.ConcertName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ConcertDescription)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ConcertImage)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Rating)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                    @Html.DisplayFor(modelItem => item.ConcertName)
-            </td>
-            <td>
-                    @Html.DisplayFor(modelItem => item.ConcertDescription)
-            </td>
-            <td>
-                    @Html.DisplayFor(modelItem => item.ConcertImage)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Rating)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <div class="row">
+        @foreach(var item in Model)
+        {
+            <div class="card col-3 m-2" style="width: 25rem;">
+                <img src="@item.ConcertImage" class="card-img-top h-75" alt="Concert Image">
+                <div class="card-body text-center">
+                    <h5 class="card-title">@item.ConcertName</h5>
+                    <p class="card-text">@item.ConcertDescription</p>
+                    <p class="card-text">@item.Rating</p>
+                    <div class="btn-group">
+                        <a class="btn btn-info" asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
+                        <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Details</a> 
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</body>

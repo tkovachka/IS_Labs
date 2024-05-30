@@ -13,14 +13,15 @@ namespace EShop.Service.Implementation
     public class TicketService : ITicketService
     {
         private readonly IRepository<Ticket> _productRepository;
+        private readonly ITicketRepository _ticketRepository;
         private readonly IUserRepository _userRepository;
 
-        public TicketService(IRepository<Ticket> productRepository, IUserRepository userRepository)
+        public TicketService(IRepository<Ticket> productRepository, ITicketRepository ticketRepository, IUserRepository userRepository)
         {
             _productRepository = productRepository;
+            _ticketRepository = ticketRepository;
             _userRepository = userRepository;
         }
-
 
         public Ticket CreateNewProduct(string userId, Ticket product)
         {
@@ -29,20 +30,20 @@ namespace EShop.Service.Implementation
             return _productRepository.Insert(product);
         }
 
-        public Ticket DeleteProduct(Guid id)
+        public Ticket DeleteProduct(Guid? id)
         {
-            var product_to_delete = this.GetProductById(id);
+            var product_to_delete = GetProductById(id);
             return _productRepository.Delete(product_to_delete);
         }
 
         public Ticket GetProductById(Guid? id)
         {
-            return _productRepository.Get(id);
+            return _ticketRepository.GetDetailsForTickets(id);
         }
 
         public List<Ticket> GetProducts()
         {
-            return _productRepository.GetAll().ToList();
+            return _ticketRepository.GetAll();
         }
 
         public Ticket UpdateProduct(Ticket product)
