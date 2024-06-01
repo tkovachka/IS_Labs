@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Import Users</h1>
+<form asp-controller="User" asp-action="ImportUsers" method="post" enctype="multipart/form-data">
+    <div class="form-control">
+        <label for="exampleInputEmail1">Attach Excel file here</label>
+        <input name="file" type="file" class="form-control" id="file">
+    </div>
+    <button type="submit" class="btn btn-success">Import file</button>
+</form>

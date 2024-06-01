@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\eshopadminapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\eshopadminapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F2C37A6-CAD1-4180-B7CB-8DDC66D55A2A}|EshopAdminApplication\\EshopAdminApplication.csproj|c:\\users\\w10p\\tea\\finki\\3 godina\\semestar 6\\integrirani sistemi\\kod\\eshopadminapplication\\eshopadminapplication\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,19 +75,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "EshopAdminApplication\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\Order.cs",
-              "RelativeToolTip": "EshopAdminApplication\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EshopAdminApplication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\User.cs",
+              "RelativeToolTip": "EshopAdminApplication\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T08:24:19.995Z",
+              "WhenOpened": "2024-06-01T10:21:15.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "EshopAdminApplication\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "EshopAdminApplication\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T11:59:02.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EshopAdminApplication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EshopAdminApplication\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:39:39.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "EshopAdminApplication\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\Ticket.cs",
+              "RelativeToolTip": "EshopAdminApplication\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:12:32.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EshopAdminApplication\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EshopAdminApplication\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:53:37.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EshopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EshopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T13:11:40.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EshopAdminApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\EshopAdminApplication.csproj",
+              "RelativeDocumentMoniker": "EshopAdminApplication\\EshopAdminApplication.csproj",
+              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\EshopAdminApplication.csproj",
+              "RelativeToolTip": "EshopAdminApplication\\EshopAdminApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T13:38:20.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "EshopAdminApplication\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "EshopAdminApplication\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:09:28.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TicketInOrder.cs",
               "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\TicketInOrder.cs",
               "RelativeDocumentMoniker": "EshopAdminApplication\\Models\\TicketInOrder.cs",
@@ -80,59 +191,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\Order\\Details.cshtml",
-              "RelativeDocumentMoniker": "EshopAdminApplication\\Views\\Order\\Details.cshtml",
-              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\Order\\Details.cshtml",
-              "RelativeToolTip": "EshopAdminApplication\\Views\\Order\\Details.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwB0AAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T08:09:28.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "EshopAdminApplication\\Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\Ticket.cs",
-              "RelativeToolTip": "EshopAdminApplication\\Models\\Ticket.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAOAAAA",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EshopAdminApplication\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\Order.cs",
+              "RelativeToolTip": "EshopAdminApplication\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T16:12:32.365Z",
+              "WhenOpened": "2024-05-28T08:24:19.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "EshopAdminApplication\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "EshopAdminApplication\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAUwCUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:53:37.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "EshopAdminApplication\\Views\\Order\\Index.cshtml",
               "ToolTip": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Views\\Order\\Index.cshtml",
               "RelativeToolTip": "EshopAdminApplication\\Views\\Order\\Index.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAACkAAAA5AAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwDAAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T08:05:12.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "TicketInShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\w10P\\Tea\\FINKI\\3 godina\\semestar 6\\Integrirani sistemi\\kod\\EshopAdminApplication\\EshopAdminApplication\\Models\\TicketInShoppingCart.cs",
               "RelativeDocumentMoniker": "EshopAdminApplication\\Models\\TicketInShoppingCart.cs",

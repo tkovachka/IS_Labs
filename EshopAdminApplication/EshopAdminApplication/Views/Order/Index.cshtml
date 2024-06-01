@@ -25,7 +25,9 @@
                         Number of products
                     </th>
                     <th>
-                    <th></th>
+                    <th>
+                        Actions
+                    </th>
                 </tr>
             </thead>
             <tbody>
@@ -42,8 +44,11 @@
                             @item.ProductInOrders.Count()
                         </td>
                         <td>
-                            |
-                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">View Order</a>
+                            <div class="btn-group">
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                                <a asp-action="CreateInvoice" asp-route-id="@item.Id" class="btn btn-success">Create Invoice</a>
+                                    
+                            </div>
                         </td>
                     </tr>
                 }

@@ -14,17 +14,12 @@
         <p>Order for @Model.OwnerId</p>
     </div>
 
-    @for(int i=0;i<Model.ProductInOrders.Count(); i++)
-    {
-        var item = Model.ProductInOrders.ElementAt(i).OrderedProduct;
-        if(i % 3 == 0)
+    <div class="row">
+        @foreach (var product in Model.ProductInOrders)
         {
-            @:<div class="row">
-        }
-        <div class="col-3 m-4">
-
-            <div class="card" style="width: 18rem; height: 35rem">
-                <img class="card-img-top" src="@item.Concert.ConcertImage" alt="Card image cap">
+            var item = product.OrderedProduct;
+            <div class="card col-3 m-2" style="width: 25rem">
+                <img class="card-img-top h-75" src="@item.Concert.ConcertImage" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">@item.Concert.ConcertName</h5>
                     <p class="card-text">@item.Concert.ConcertDescription</p>
@@ -32,11 +27,7 @@
                 </div>
 
             </div>
-        </div>
 
-        if(i % 3 == 2)
-        {
-            @:</div>
         }
-    }
+        </div>
 </div>
